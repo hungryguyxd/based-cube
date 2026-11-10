@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = ["crates/client", "crates/server"]
+default-members = ["crates/client"]
+
+[worksapce.package]
+name = "based-cube"
+version = "0.1.0"
+edition = "2026"
+
+[dependencies]
+bevy = "0.20.1"
