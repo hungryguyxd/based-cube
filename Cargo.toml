@@ -8,5 +8,5 @@ name = "based-cube"
 version = "0.1.0"
 edition = "2026"
 
-[dependencies]
+[workspace.dependencies]
 bevy = "0.20.1"
