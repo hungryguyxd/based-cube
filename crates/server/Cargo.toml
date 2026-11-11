@@ -10,5 +10,3 @@ name = "server"
 path = "src/main.rs"
 
 [dependencies]
-# На шаге 1 зависимостей нет. Bevy MinimalPlugins + SQLite появятся позже.
-# Важно: сервер не должен тянуть bevy_render/bevy_audio/bevy_winit/wgpu/cpal.
