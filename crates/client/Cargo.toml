@@ -10,3 +10,5 @@ name = "client"
 path = "src/main.rs"
 
 [dependencies]
+bevy = { workspace = true }
+bevy_simple_i18n = { workspace = true }
