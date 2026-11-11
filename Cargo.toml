@@ -6,8 +6,9 @@ default-members = ["crates/client"]
 [workspace.package]
 version = "0.1.0"
 edition = "2024"
-rust-version = "1.85"
+rust-version = "1.95"
 license = "MIT"
 
 [workspace.dependencies]
 bevy = "0.20.1"
+bevy_simple_i18n = "0.5.0"
