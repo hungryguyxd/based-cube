@@ -3,10 +3,11 @@ resolver = "2"
 members = ["crates/client", "crates/server"]
 default-members = ["crates/client"]
 
-[worksapce.package]
-name = "based-cube"
+[workspace.package]
 version = "0.1.0"
-edition = "2026"
+edition = "2024"
+rust-version = "1.85"
+license = "MIT"
 
 [workspace.dependencies]
 bevy = "0.20.1"
