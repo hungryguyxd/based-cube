@@ -63,4 +63,4 @@ jobs:
         run: cargo run --bin client --locked
 
       - name: Sanity run server
-        run: cargo run --bin server --locked
+        run: cargo run -p server --bin server --locked
