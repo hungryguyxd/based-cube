@@ -2,7 +2,7 @@
 
 [![Build Check](https://github.com/hungryguyxd/based-cube/actions/workflows/build.yaml/badge.svg?event=pull_request)](https://github.com/hungryguyxd/based-cube/actions/workflows/build.yaml)
 
-This is a repo for a game made using rust inspired by Minecraft
+This is a repo for a `BasedCube` game inspired by Minecraft
 
 # About
 
